@@ -1,1 +1,1 @@
-Main
+warn("Hiếu")
